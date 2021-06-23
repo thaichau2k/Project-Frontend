@@ -1,2 +1,3 @@
 # Project-Frontend
-ko có folder assets của bootstrap
+Cần thêm folder assets của Bootstrap để chạy
+
